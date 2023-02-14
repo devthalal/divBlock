@@ -1,0 +1,13 @@
+{
+  "name": "divBlock",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/devthalal/divBlock",
+    "ssh": "git@github.com:devthalal/divBlock.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false
+}
